@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/scrupal.iml" filepath="$PROJECT_DIR$/.idea/modules/scrupal.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/scrupal-build.iml" filepath="$PROJECT_DIR$/.idea/modules/scrupal-build.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/scrupal-hmi.iml" filepath="$PROJECT_DIR$/.idea/modules/scrupal-hmi.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/scrupal-hmi-build.iml" filepath="$PROJECT_DIR$/.idea/modules/scrupal-hmi-build.iml" />
+    </modules>
+  </component>
+</project>
